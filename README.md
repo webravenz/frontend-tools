@@ -1,16 +1,16 @@
 # Frontend tools
 
-## Style guide
+## CSS
 
-[Source JS](https://sourcejs.com/)
+reset css elements : [normalize](https://necolas.github.io/normalize.css/)
 
-## CSS syntax
+syntax guide : [Suit CSS](https://suitcss.github.io/)
 
-[Suit CSS](https://suitcss.github.io/)
+create style guide : [Source JS](https://sourcejs.com/)
 
 ## Assets compilation
 
-### Laravel mix
+### Laravel mix (scss, js)
 
 [website](https://laravel.com/docs/5.4/mix)
 
